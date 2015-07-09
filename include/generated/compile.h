@@ -1,7 +1,7 @@
-/* This file is auto generated, version 3 */
+/* This file is auto generated, version 1 */
 /* SMP PREEMPT */
 #define UTS_MACHINE "arm"
-#define UTS_VERSION "#3 SMP PREEMPT Tue Jun 23 14:26:38 MDT 2015"
-#define LINUX_COMPILE_BY "matt"
-#define LINUX_COMPILE_HOST "engine95-VBUbuntu"
-#define LINUX_COMPILER "gcc version 4.9.1 20140505 (prerelease) (crosstool-NG linaro-1.13.1-4.9-2014.05 - Linaro GCC 4.9-2014.05) "
+#define UTS_VERSION "#1 SMP PREEMPT Wed Jul 8 18:57:45 MDT 2015"
+#define LINUX_COMPILE_BY "engine95"
+#define LINUX_COMPILE_HOST "engine95-VirtualBox"
+#define LINUX_COMPILER "gcc version 4.8.2 20130719 (prerelease) (SM-Toolchain) "
