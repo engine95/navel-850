@@ -3856,6 +3856,7 @@
 0x4b6523df	scsi_get_device_flags_keyed	vmlinux	EXPORT_SYMBOL
 0xc549ec82	device_show_int	vmlinux	EXPORT_SYMBOL_GPL
 0xf2452519	kgsl_pwrctrl_irq	vmlinux	EXPORT_SYMBOL
+0xd07e41dc	erandom_get_random_bytes	vmlinux	EXPORT_SYMBOL
 0x5910ae82	uart_handle_cts_change	vmlinux	EXPORT_SYMBOL_GPL
 0x1df9d8d5	uart_handle_dcd_change	vmlinux	EXPORT_SYMBOL_GPL
 0x3e1b3daf	blk_fetch_request	vmlinux	EXPORT_SYMBOL
